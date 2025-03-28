@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=7E3ACE&background=FF000000&vCenter=true&width=435&lines=EME+Moonbounce+Enthusiast;SDR+Wizard;LoRa+PacketCrafter" alt="Typing SVG" />
 </div>
 
-### 🎛️ RF Lab Toolkit
-![GNU Radio](https://img.shields.io/badge/GNU_Radio-FF6F00?style=flat&logo=gnuradio&logoColor=white)
-![HackRF](https://img.shields.io/badge/HackRF-31A8FF?style=for-the-badge&logo=bluetooth&logoColor=white)
-![LimeSDR](https://img.shields.io/badge/LimeSDR-00CC00?style=flat&logo=rtl-sdr&logoColor=white)
-![ADS-B](https://img.shields.io/badge/ADS--B-FF4500?style=flat&logo=flight&logoColor=white)
 
 ---
 
@@ -24,11 +19,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-| [![RadioPi](https://github-readme-stats.vercel.app/api/pin/?username=BG4JTS&repo=RadioPi&theme=merko&show_owner=true)](https://github.com/BG4JTS/RadioPi) | [![HamClock](https://github-readme-stats.vercel.app/api/pin/?username=BG4JTS&repo=HamClock&theme=merko&show_owner=true)](https://github.com/BG4JTS/HamClock) |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| *Raspberry Pi SDR Controller with Web Interface*                                                                                                         | *APRS-enabled ESP32 Digital Shack Clock*                                                                                                                   |
 
 ---
 
@@ -47,14 +38,6 @@
 
 ## 🌐 Propagation Paths
 [![QRZ Profile](https://img.shields.io/badge/QRZ-BG4JTS-red?style=for-the-badge&logo=apache-echarts)](https://www.qrz.com/db/BG4JTS)
-[![HamSphere](https://img.shields.io/badge/HamSphere-4.0_Operator-009688?style=for-the-badge&logo=google-earth)](https://hamsphere.com)
-[![Echolink](https://img.shields.io/badge/Echolink-Node_95262-3DDC84?style=for-the-badge&logo=android)](https://echolink.org)
-
-<div align="center">
-  <a href="https://www.repeaterbook.com/repeaters/details.php?state_id=44&ID=9526">
-    <img src="https://img.shields.io/badge/Repeater-APRS%2FDMR%2FFM-important?style=flat-square&logo=telegram">
-  </a>
-</div>
 
 ---
 
